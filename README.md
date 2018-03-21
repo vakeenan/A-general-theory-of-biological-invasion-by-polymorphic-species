@@ -1,2 +1,2 @@
 # A-general-theory-of-biological-invasion-by-polymorphic-species
-MATLAB code for simulations within the project
+MATLAB code for simulations within the project. ElliottCornellequations.m is the main script used. Each of the other files are functions called within this main script. Details of how the functions work, and descriptions for lines within the code are commented within the files. It is HIGHLY RECOMMENDED that ElliottCornellequaitons.m is opened first since all the parameters are saved as numbered cells which have descriptors at the top of this file.
