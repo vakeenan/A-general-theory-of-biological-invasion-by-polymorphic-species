@@ -37,7 +37,7 @@ a{4}=C;
 a{5}=MU;
 
 %Vector that contains r(i) values that are important for stability of
-%finitite difference methods - analagous to the CFD condition. For the
+%finite difference methods - analagous to the CFD condition. For the
 %Crank-Nicholson method this is not an issue as it is always stable for all
 %values of r(i). Not to be confused with per-capita growth rate. See
 %literature for numerical methods if unsure.
